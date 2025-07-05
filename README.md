@@ -13,19 +13,6 @@ This is a two-player chess engine implemented in Java, featuring move validation
 - **IDE:** IntelliJ IDEA
 - **Concepts Used:** Object-Oriented Programming (OOP), Algorithms, Game Logic
 
-## 📌 How to Run
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/yourusername/chess-engine.git
-   ```
-2. Open the project in IntelliJ IDEA (or any Java IDE).
-3. Compile and run the main class:
-   ```sh
-   javac Main.java
-   java Main
-   ```
-4. Play the game in the console (GUI version under development).
-
 ## How It Works
 - The game uses an **8×8 board representation**, where each piece is an object.
 - Move validation follows standard chess rules.
