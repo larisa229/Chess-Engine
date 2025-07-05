@@ -19,6 +19,6 @@ Move validation follows standard chess rules.
 The engine checks for checkmate and prevents illegal moves.
 
 ## Future Improvements
-Improving the graphical user interface (GUI).
-Adding AI to allow single-player mode against a computer opponent.
-Keep track of the players' movements and display them in the GUI.
+- Improving the graphical user interface (GUI).
+- Adding AI to allow single-player mode against a computer opponent.
+- Keep track of the players' movements and display them in the GUI.
